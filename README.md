@@ -1,5 +1,4 @@
-# VITMAS_Task0_21BCI0026
-# here are some of the git commands.
-
-
-#thank you
+some important git commands:
+1.git config --global user.name: to configure the name.
+2.git config --global user.email: to configure the email.
+3.
