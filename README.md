@@ -2,8 +2,8 @@ some important git commands git bash terminal
 1. git config --global user.name:- to configure the name.
 2. git config --global user.email:- to configure the email.
 3. clear:- clears the screen of the terminal
-4. touch:- it is used to create new file by giving name of the file
-5. git add:- it used to add the specified file in stagging area
+4. touch (file name):- it is used to create new file by giving name of the file
+5. git add (file name):- it used to add the specified file in stagging area
 6. code . :- it opens vs code from terminal directly
 7. git init :– initialize the git repository in the current directory of the local pc
 8. git add -A :- to add all files in the present working directory to the staging area
@@ -18,3 +18,4 @@ some important git commands git bash terminal
 17.	git log -p -2 :– to see the last 2 commit on the machine and shows the changes we made
 18.	git commit -a -m “skipped staging area and fixed” :-If you want to directly commit the file without making it to the staging area
 19.	pwd :- to see the present working directory 
+20.	git rm --cached(file name):- to delete the file specified from the stagged area.
