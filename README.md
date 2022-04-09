@@ -1,4 +1,4 @@
-some important git commands git bash terminal\
+some important git commands git bash terminal
 1. git config --global user.name:- to configure the name.\
 2. git config --global user.email:- to configure the email.\
 3. clear:- clears the screen of the terminal\
