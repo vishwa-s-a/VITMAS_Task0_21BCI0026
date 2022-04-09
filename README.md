@@ -1,4 +1,5 @@
-some important git commands used in  git bash terminal
+some important git commands used in  git bash terminal are as follows, and the link for youtube video is as follows
+https://youtu.be/QpPnFtXI76c
 1. git config --global user.name:- to configure the name.
 2. git config --global user.email:- to configure the email.
 3. clear:- clears the screen of the terminal
@@ -28,4 +29,5 @@ some important git commands used in  git bash terminal
 27. git remote -v:- shows the url where the files are pushed and fetched.
 28. git push origin:- finally uploads all the specified files in the online repository.
 29. git clone (URL):- it is used to clone the online repository into local machine from the specified URL. 
+
 
