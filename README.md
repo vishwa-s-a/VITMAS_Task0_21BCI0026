@@ -29,5 +29,6 @@ https://youtu.be/QpPnFtXI76c
 27. git remote -v:- shows the url where the files are pushed and fetched.
 28. git push origin:- finally uploads all the specified files in the online repository.
 29. git clone (URL):- it is used to clone the online repository into local machine from the specified URL. 
+30. ls :- lists all the files present in that directory
 
 
